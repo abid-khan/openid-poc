@@ -9,8 +9,8 @@ spring:
 security:
   oauth2:
     client:
-      clientId: 549717350318-41n0qmsb9tu79tpl93bqvj8tmv64otbt.apps.googleusercontent.com
-      clientSecret: 8JpiM77_3rgBi_SHOhbcSVQ
+      clientId: to  be updated
+      clientSecret: to be updated
       accessTokenUri: https://accounts.google.com/o/oauth2/token
       userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
       tokenName: oauth_token
